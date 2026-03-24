@@ -1,6 +1,3 @@
-# mod2mp4
-Convert Canon MOD/MOI camcorder files to MP4 with preserved recording dates
-
 # From Forgotten Camcorder Files to Watchable Memories 🎥
 
 Years ago, I used a Canon FS200 camcorder to capture countless moments—family gatherings, holidays, and most importantly, videos of my kids growing up. Like many camcorders from that era, it recorded videos in the `.MOD` format, accompanied by `.MOI` metadata files.
